@@ -1,0 +1,19 @@
+body {
+     background-color:lemonchiffon;
+}
+
+h1 {
+    text-align:center;
+}
+
+p {
+    font-size: 15px
+}
+
+table{
+   border-collapse: collapse;
+}
+
+table, th, td{
+    border: 1px solid black;
+}
